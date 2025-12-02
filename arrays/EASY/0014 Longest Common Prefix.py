@@ -16,37 +16,55 @@
 
 class Solution(object):
     def longestCommonPrefix(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: str
-        """
+        if not strs:
+            return ""
+        if len(strs) == 1:
+            return strs[0]
+
+        def common(a, b):
+            result = []
+            for i in range(min(len(a), len(b))):
+                if a[i] == b[i]:
+                    result.append(a[i])
+                else:
+                    break
+            return ''.join(result)
+
+        prefix = strs[0]
+
+        for i in range(1, len(strs)):
+            prefix = common(prefix, strs[i])
+            if prefix == "":
+                break
+
+        return prefix
+
     
     
-strs=["flower", "flow", "flight"]
+def longestCommonPrefix(strs):
+    if not strs:
+        return ""
+    if len(strs) == 1:
+        return strs[0]
 
-# print(len(strs))
+    # Function to find common prefix between two strings
+    def common(a, b):
+        result = []
+        for i in range(min(len(a), len(b))):
+            if a[i] == b[i]:
+                result.append(a[i])
+            else:
+                break
+        return ''.join(result)
 
-for i in range(len(strs)-1):
-    str1=strs[i]
-    str2=strs[i+1]
-    list=[]
-    list.append(str1)
-    list.append(str2)
-    val=0
-    if len(str1)>len(str2):
-        ran=str2
-    else:
-        ran=str1
-    bucket=[]
-    for j in range(0,len(ran)):
-        if(str1[j]==str2[j]):
-            bucket.append(ran[j])
-            val=val+1
-        else:
+    prefix = strs[0]
+
+    for i in range(1, len(strs)):
+        prefix = common(prefix, strs[i])
+        if prefix == "":
             break
-    bucket = ''.join(bucket)
-    if (len(bucket)<=len(ran)):
-        final_str=bucket
-    else:
-        continue
-print(final_str)
+
+    return prefix
+
+longestCommonPrefix(["flower", "flow", "flight"])
+longestCommonPrefix(["dog", "racecar", "car"])
