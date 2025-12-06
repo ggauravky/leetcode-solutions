@@ -79,15 +79,20 @@ Each difficulty folder includes a **`000why.md`** guide file with:
 
 ### 📊 Arrays
 
-| #   | Title   | Difficulty                                         | Solution                                   | Tags               |
-| --- | ------- | -------------------------------------------------- | ------------------------------------------ | ------------------ |
-| 001 | Two Sum | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/001%20Two%20Sum.py) | `Hash Map` `Array` |
+| #   | Title                               | Difficulty                                         | Solution                                                                      | Tags                    |
+| --- | ----------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------- |
+| 001 | Two Sum                             | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0001%20Two%20Sum.py)                                   | `Hash Map` `Array`      |
+| 014 | Longest Common Prefix               | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0014%20Longest%20Common%20Prefix.py)                   | `String` `Array`        |
+| 026 | Remove Duplicates from Sorted Array | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0026%20Remove%20Duplicates%20from%20Sorted%20Array.py) | `Two Pointers` `Array`  |
+| 027 | Remove Element                      | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0027%20Remove%20Element.py)                            | `Two Pointers` `Array`  |
+| 035 | Search Insert Position              | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0035%20Search%20Insert%20Position.py)                  | `Binary Search` `Array` |
+| 066 | Plus One                            | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0066%20Plus%20One.py)                                  | `Math` `Array`          |
 
 📁 **View folder structure**
 
 ```
 arrays/
-├── EASY/     → 1 problem
+├── EASY/     → 6 problems
 ├── MEDIUM/   → 0 problems
 └── HARD/     → 0 problems
 ```
@@ -100,10 +105,10 @@ arrays/
 
 | Difficulty                                             | Solved | Total |
 | ------------------------------------------------------ | ------ | ----- |
-| ![Easy](https://img.shields.io/badge/-Easy-5CB85C)     | 1      | ∞     |
+| ![Easy](https://img.shields.io/badge/-Easy-5CB85C)     | 6      | ∞     |
 | ![Medium](https://img.shields.io/badge/-Medium-F0AD4E) | 0      | ∞     |
 | ![Hard](https://img.shields.io/badge/-Hard-D9534F)     | 0      | ∞     |
-| **Total**                                              | **1**  | **∞** |
+| **Total**                                              | **6**  | **∞** |
 
 ---
 
