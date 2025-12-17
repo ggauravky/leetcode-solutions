@@ -87,12 +87,17 @@ Each difficulty folder includes a **`000why.md`** guide file with:
 | 027 | Remove Element                      | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0027%20Remove%20Element.py)                            | `Two Pointers` `Array`  |
 | 035 | Search Insert Position              | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0035%20Search%20Insert%20Position.py)                  | `Binary Search` `Array` |
 | 066 | Plus One                            | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0066%20Plus%20One.py)                                  | `Math` `Array`          |
+| 088 | Merge Sorted Array                  | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0088%20Merge%20Sorted%20Array.py)                      | `Two Pointers` `Array`  |
+| 118 | Pascal's Triangle                   | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0118%20Pascal's%20Triangle.py)                         | `Dynamic Programming`   |
+| 119 | Pascal's Triangle II                | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0119%20Pascal's%20Triangle%20II.py)                    | `Dynamic Programming`   |
+| 121 | Best Time to Buy and Sell Stock     | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | `Greedy` `Array`        |
+| 136 | Single Number                       | ![Easy](https://img.shields.io/badge/-Easy-5CB85C) | [Python](./arrays/EASY/0136%20Single%20Number.py)                             | `Bit Manipulation`      |
 
 📁 **View folder structure**
 
 ```
 arrays/
-├── EASY/     → 6 problems
+├── EASY/     → 11 problems
 ├── MEDIUM/   → 0 problems
 └── HARD/     → 0 problems
 ```
@@ -105,10 +110,10 @@ arrays/
 
 | Difficulty                                             | Solved | Total |
 | ------------------------------------------------------ | ------ | ----- |
-| ![Easy](https://img.shields.io/badge/-Easy-5CB85C)     | 6      | ∞     |
+| ![Easy](https://img.shields.io/badge/-Easy-5CB85C)     | 11     | ∞     |
 | ![Medium](https://img.shields.io/badge/-Medium-F0AD4E) | 0      | ∞     |
 | ![Hard](https://img.shields.io/badge/-Hard-D9534F)     | 0      | ∞     |
-| **Total**                                              | **6**  | **∞** |
+| **Total**                                              | **11** | **∞** |
 
 ---
 
