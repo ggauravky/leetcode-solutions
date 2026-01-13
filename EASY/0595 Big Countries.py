@@ -46,3 +46,19 @@
 # | Algeria     | 37100000   | 2381741 |
 # +-------------+------------+---------+
 
+# pandas solution
+import pandas as pd
+
+def big_countries(world: pd.DataFrame) -> pd.DataFrame:
+    df=world[
+        (world['area']>=3000000) | (world['population']>=25000000)
+    ]
+    return df[['name',"population","area"]]
+
+# sql solution
+# Write your MySQL query statement below
+select 
+name , population , area 
+from 
+world
+where area >=3000000 or population >= 25000000
