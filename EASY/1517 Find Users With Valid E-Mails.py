@@ -63,7 +63,7 @@ SELECT *
 FROM Users
 WHERE REGEXP_LIKE(mail, '^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode\\.com$', 'c');
 
-""""
+"""
 
 # The REGEXP pattern breakdown:
 # ^[a-zA-Z]         : Ensures the email starts with a letter (either uppercase or lowercase).
