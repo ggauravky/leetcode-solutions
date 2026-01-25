@@ -44,5 +44,5 @@ class Solution:
         # For elements that have no next greater element
         for num in stack:
             next_greater[num] = -1
-        
+                
         return [next_greater[num] for num in nums1]
