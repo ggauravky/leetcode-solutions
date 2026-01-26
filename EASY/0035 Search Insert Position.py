@@ -18,20 +18,36 @@
 # Input: nums = [1,3,5,6], target = 7
 # Output: 4
 
-nums = [1,3,5,6] 
-target = 5
+# nums = [1,3,5,6] 
+# target = 5
 
 # nums = [-5, -2, 0, 3, 9]
 # target = 3
 
 
-def searchInsert(self, nums, target):
-    for i in range(len(nums)):
-        if nums[i] >= target:
-            return i
-    return len(nums)
+# def searchInsert(self, nums, target):
+#     for i in range(len(nums)):
+#         if nums[i] >= target:
+#             return i
+#     return len(nums)
             
         
 
-a=searchInsert(nums,target)
-print(a)
+# a=searchInsert(nums,target)
+# print(a)
+
+
+
+
+
+
+
+
+
+nums = [1,3,5,6]
+target = 5
+
+for i in range(len(nums)):
+    if nums[i] >= target:
+        print(i)
+        break
