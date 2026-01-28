@@ -29,10 +29,14 @@
 | 2    | Add Two Numbers                                          | 🟡 Medium  | [Link](https://leetcode.com/problems/add-two-numbers/)                                          | [Solution](MEDIUM/0002%20Add%20Two%20Numbers.py)                                                    |
 | 9    | Palindrome Number                                        | 🟢 Easy    | [Link](https://leetcode.com/problems/palindrome-number/)                                        | [Solution](EASY/0009%20Palindrome%20Number.py)                                                      |
 | 14   | Longest Common Prefix                                    | 🟢 Easy    | [Link](https://leetcode.com/problems/longest-common-prefix/)                                    | [Solution](EASY/0014%20Longest%20Common%20Prefix.py)                                                |
+| 17   | Letter Combinations of a Phone Number                    | 🟡 Medium  | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                    | [Solution](MEDIUM/0017%20Letter%20Combinations%20of%20a%20Phone%20Number.py)                        |
 | 19   | Remove Nth Node From End of List                         | 🟡 Medium  | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                         | [Solution](MEDIUM/0019%20Remove%20Nth%20Node%20From%20End%20of%20List.py)                           |
+| 20   | Valid Parentheses                                        | 🟢 Easy    | [Link](https://leetcode.com/problems/valid-parentheses/)                                        | [Solution](EASY/0020%20Valid%20Parentheses.py)                                                      |
 | 26   | Remove Duplicates from Sorted Array                      | 🟢 Easy    | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                      | [Solution](EASY/0026%20Remove%20Duplicates%20from%20Sorted%20Array.py)                              |
 | 27   | Remove Element                                           | 🟢 Easy    | [Link](https://leetcode.com/problems/remove-element/)                                           | [Solution](EASY/0027%20Remove%20Element.py)                                                         |
 | 35   | Search Insert Position                                   | 🟢 Easy    | [Link](https://leetcode.com/problems/search-insert-position/)                                   | [Solution](EASY/0035%20Search%20Insert%20Position.py)                                               |
+| 39   | Combination Sum                                          | 🟡 Medium  | [Link](https://leetcode.com/problems/combination-sum/)                                          | [Solution](MEDIUM/0039%20Combination%20Sum.py)                                                      |
+| 46   | Permutations                                             | 🟡 Medium  | [Link](https://leetcode.com/problems/permutations/)                                             | [Solution](MEDIUM/0046%20Permutations.py)                                                           |
 | 50   | Pow(x, n)                                                | 🟢 Easy    | [Link](https://leetcode.com/problems/powx-n/)                                                   | [Solution](<EASY/0050%20Pow(x,%20n).py>)                                                            |
 | 53   | Maximum Subarray                                         | 🟡 Medium  | [Link](https://leetcode.com/problems/maximum-subarray/)                                         | [Solution](MEDIUM/0053%20Maximum%20Subarray.py)                                                     |
 | 54   | Spiral Matrix                                            | 🟡 Medium  | [Link](https://leetcode.com/problems/spiral-matrix/)                                            | [Solution](MEDIUM/0054%20Spiral%20Matrix.py)                                                        |
@@ -59,21 +63,28 @@
 | 141  | Linked List Cycle                                        | 🟢 Easy    | [Link](https://leetcode.com/problems/linked-list-cycle/)                                        | [Solution](EASY/0141%20Linked%20List%20Cycle.py)                                                    |
 | 196  | Delete Duplicate Emails                                  | 🟢 Easy    | [Link](https://leetcode.com/problems/delete-duplicate-emails/)                                  | [Solution](EASY/0196%20Delete%20Duplicate%20Emails.py)                                              |
 | 206  | Reverse Linked List                                      | 🟢 Easy    | [Link](https://leetcode.com/problems/reverse-linked-list/)                                      | [Solution](EASY/0206%20Reverse%20Linked%20List.py)                                                  |
+| 225  | Implement Stack using Queues                             | 🟢 Easy    | [Link](https://leetcode.com/problems/implement-stack-using-queues/)                             | [Solution](EASY/0225%20Implement%20Stack%20using%20Queues.py)                                       |
 | 231  | Power of Two                                             | 🟢 Easy    | [Link](https://leetcode.com/problems/power-of-two/)                                             | [Solution](EASY/0231%20Power%20of%20Two.py)                                                         |
 | 232  | Implement Queue using Stacks                             | 🟢 Easy    | [Link](https://leetcode.com/problems/implement-queue-using-stacks/)                             | [Solution](EASY/0232%20Implement%20Queue%20using%20Stacks.py)                                       |
 | 237  | Delete Node in a Linked List                             | 🟡 Medium  | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/)                             | [Solution](MEDIUM/0237%20Delete%20Node%20in%20a%20Linked%20List.py)                                 |
 | 412  | Fizz Buzz                                                | 🟢 Easy    | [Link](https://leetcode.com/problems/fizz-buzz/)                                                | [Solution](EASY/0412%20Fizz%20Buzz.py)                                                              |
+| 496  | Next Greater Element I                                   | 🟢 Easy    | [Link](https://leetcode.com/problems/next-greater-element-i/)                                   | [Solution](EASY/0496%20Next%20Greater%20Element%20I.py)                                             |
+| 503  | Next Greater Element II                                  | 🟡 Medium  | [Link](https://leetcode.com/problems/next-greater-element-ii/)                                  | [Solution](MEDIUM/0503%20Next%20Greater%20Element%20II.py)                                          |
 | 509  | Fibonacci Number                                         | 🟢 Easy    | [Link](https://leetcode.com/problems/fibonacci-number/)                                         | [Solution](EASY/0509%20Fibonacci%20Number.py)                                                       |
 | 511  | Game Play Analysis I                                     | 🟢 Easy    | [Link](https://leetcode.com/problems/game-play-analysis-i/)                                     | [Solution](EASY/0511%20Game%20Play%20Analysis%20I.py)                                               |
 | 586  | Customer Placing the Largest Number of Orders            | 🟢 Easy    | [Link](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)            | [Solution](EASY/0586%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.py)                |
 | 595  | Big Countries                                            | 🟢 Easy    | [Link](https://leetcode.com/problems/big-countries/)                                            | [Solution](EASY/0595%20Big%20Countries.py)                                                          |
 | 596  | Classes With at Least 5 Students                         | 🟢 Easy    | [Link](https://leetcode.com/problems/classes-more-than-5-students/)                             | [Solution](EASY/0596%20Classes%20With%20at%20Least%205%20Students.py)                               |
+| 607  | Sales Person                                             | 🟢 Easy    | [Link](https://leetcode.com/problems/sales-person/)                                             | [Solution](EASY/0607%20Sales%20Person.py)                                                           |
+| 844  | Backspace String Compare                                 | 🟢 Easy    | [Link](https://leetcode.com/problems/backspace-string-compare/)                                 | [Solution](EASY/0844%20Backspace%20String%20Compare.py)                                             |
 | 876  | Middle of the Linked List                                | 🟢 Easy    | [Link](https://leetcode.com/problems/middle-of-the-linked-list/)                                | [Solution](EASY/0876%20Middle%20of%20the%20Linked%20List.py)                                        |
 | 905  | Sort Array By Parity                                     | 🟢 Easy    | [Link](https://leetcode.com/problems/sort-array-by-parity/)                                     | [Solution](EASY/0905%20Sort%20Array%20By%20Parity.py)                                               |
 | 1050 | Actors and Directors Who Cooperated At Least Three Times | 🟢 Easy    | [Link](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Solution](EASY/1050%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.py) |
 | 1108 | Defanging an IP Address                                  | 🟢 Easy    | [Link](https://leetcode.com/problems/defanging-an-ip-address/)                                  | [Solution](EASY/1108%20Defanging%20an%20IP%20Address.py)                                            |
 | 1137 | N-th Tribonacci Number                                   | 🟢 Easy    | [Link](https://leetcode.com/problems/n-th-tribonacci-number/)                                   | [Solution](EASY/1137%20N-th%20Tribonacci%20Number.py)                                               |
 | 1148 | Article Views I                                          | 🟢 Easy    | [Link](https://leetcode.com/problems/article-views-i/)                                          | [Solution](EASY/1148%20Article%20Views%20I.py)                                                      |
+| 1280 | Students and Examinations                                | 🟢 Easy    | [Link](https://leetcode.com/problems/students-and-examinations/)                                | [Solution](EASY/1280%20Students%20and%20Examinations.py)                                            |
+| 1378 | Replace Employee ID With The Unique Identifier           | 🟢 Easy    | [Link](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)           | [Solution](EASY/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.py)              |
 | 1480 | Running Sum of 1d Array                                  | 🟢 Easy    | [Link](https://leetcode.com/problems/running-sum-of-1d-array/)                                  | [Solution](EASY/1480%20Running%20Sum%20of%201d%20Array.py)                                          |
 | 1484 | Group Sold Products By The Date                          | 🟢 Easy    | [Link](https://leetcode.com/problems/group-sold-products-by-the-date/)                          | [Solution](EASY/1484%20Group%20Sold%20Products%20By%20The%20Date.py)                                |
 | 1517 | Find Users With Valid E-Mails                            | 🟢 Easy    | [Link](https://leetcode.com/problems/find-users-with-valid-e-mails/)                            | [Solution](EASY/1517%20Find%20Users%20With%20Valid%20E-Mails.py)                                    |
@@ -88,6 +99,9 @@
 | 1795 | Rearrange Products Table                                 | 🟢 Easy    | [Link](https://leetcode.com/problems/rearrange-products-table/)                                 | [Solution](EASY/1795%20Rearrange%20Products%20Table.py)                                             |
 | 1873 | Calculate Special Bonus                                  | 🟢 Easy    | [Link](https://leetcode.com/problems/calculate-special-bonus/)                                  | [Solution](EASY/1873%20Calculate%20Special%20Bonus.py)                                              |
 | 2356 | Number of Unique Subjects Taught by Each Teacher         | 🟢 Easy    | [Link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/)         | [Solution](EASY/2356%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.py)           |
+| 2620 | Counter                                                  | 🟢 Easy    | [Link](https://leetcode.com/problems/counter/)                                                  | [Solution](EASY/2620%20Counter.py)                                                                  |
+| 2667 | Create Hello World Function                              | 🟢 Easy    | [Link](https://leetcode.com/problems/create-hello-world-function/)                              | [Solution](EASY/2667%20Create%20Hello%20World%20Function.py)                                        |
+| 2704 | To Be Or Not To Be                                       | 🟢 Easy    | [Link](https://leetcode.com/problems/to-be-or-not-to-be/)                                       | [Solution](EASY/2704%20To%20Be%20Or%20Not%20To%20Be.py)                                             |
 
 ---
 
@@ -115,10 +129,10 @@ This repository contains my journey through LeetCode problems, solving at least 
 📦 leetcode-solutions/
 │
 ├── 📁 EASY/
-│   └── 48 Easy problems solved
+│   └── 58 Easy problems solved
 │
 ├── 📁 MEDIUM/
-│   └── 14 Medium problems solved
+│   └── 18 Medium problems solved
 │
 ├── 📁 HARD/
 │   └── 0 Hard problems solved
@@ -136,10 +150,10 @@ This repository contains my journey through LeetCode problems, solving at least 
 
 | Difficulty | Solved | Percentage                                                             |
 | ---------- | ------ | ---------------------------------------------------------------------- |
-| 🟢 Easy    | 48     | ![Progress](https://img.shields.io/badge/Progress-Growing-brightgreen) |
-| 🟡 Medium  | 14     | ![Progress](https://img.shields.io/badge/Progress-Growing-yellow)      |
+| 🟢 Easy    | 58     | ![Progress](https://img.shields.io/badge/Progress-Growing-brightgreen) |
+| 🟡 Medium  | 18     | ![Progress](https://img.shields.io/badge/Progress-Growing-yellow)      |
 | 🔴 Hard    | 0      | ![Progress](https://img.shields.io/badge/Progress-Coming%20Soon-red)   |
-| **Total**  | **62** | **🎯**                                                                 |
+| **Total**  | **76** | **🎯**                                                                 |
 
 ---
 
