@@ -18,12 +18,12 @@
 # Output: [0,1]
  
 
-class Solution(object):
-    def twoSum(self, nums, target):
-        for i in range(0,len(nums)):
-            for j in range(i , len(nums)):
-                if nums[i] + nums[j] == target and i != j :
-                    return [i,j]
+# class Solution(object):
+#     def twoSum(self, nums, target):
+#         for i in range(0,len(nums)):
+#             for j in range(i , len(nums)):
+#                 if nums[i] + nums[j] == target and i != j :
+#                     return [i,j]
 
 
 
@@ -38,13 +38,22 @@ class Solution(object):
 #             print([i,j])
             
 
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        n=len(nums)
-        dict1={}
+# class Solution:
+#     def twoSum(self, nums: List[int], target: int) -> List[int]:
+#         n=len(nums)
+#         dict1={}
         
-        for i in range(n):
-            complement=target-nums[i]
-            if complement in dict1:
-                return [dict1[complement],i]
-            dict1[nums[i]]=i
+#         for i in range(n):
+#             complement=target-nums[i]
+#             if complement in dict1:
+#                 return [dict1[complement],i]
+#             dict1[nums[i]]=i
+            
+
+nums = [3,2,4]
+target = 6
+
+for i in range(0,len(nums)):
+    for j in range(i,len(nums)):
+         if nums[i] + nums[j] == target and i!= j :
+                    print([i,j])
