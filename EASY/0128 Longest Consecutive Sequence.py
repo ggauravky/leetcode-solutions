@@ -36,3 +36,18 @@ class Solution:
                 longest = max(longest, length)
 
         return longest
+
+nums = [100,4,200,1,3,2]
+
+s=set(nums)
+print(s)
+longest = 0
+for n in s:
+    if n - 1 not in s:          
+        length = 1
+        while n + length in s:
+            length += 1
+        longest = max(longest, length)
+
+print(longest)
+# Output: 4
