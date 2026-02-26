@@ -30,3 +30,6 @@ class Solution:
             return half * half
         else:
             return half * half * x
+    
+# Time complexity: O(log n)
+# Space complexity: O(log n) due to recursion stack
