@@ -50,3 +50,6 @@ class Solution:
                 result = temp
         
         return result
+    
+# Time Complexity: O(3^N * 4^M) where N is the number of digits that map to 3 letters and M is the number of digits that map to 4 letters.
+# Space Complexity: O(3^N * 4^M) for storing the combinations
