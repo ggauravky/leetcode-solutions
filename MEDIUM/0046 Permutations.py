@@ -39,3 +39,7 @@ class Solution:
 
         backtrack([])
         return result
+
+
+## Time Complexity: O(n * n!) - There are n! permutations and generating each permutation takes O(n) time.
+## Space Complexity: O(n) - The space used by the recursion stack and the path list. The result list will take O(n * n!) space, but we typically don't count the output space when analyzing space complexity.  
