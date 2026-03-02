@@ -28,3 +28,6 @@ class Solution:
         while n % 2 == 0:
             n //= 2
         return n == 1
+
+# Time complexity: O(log n)
+# Space complexity: O(1)
