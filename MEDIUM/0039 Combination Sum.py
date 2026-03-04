@@ -71,3 +71,7 @@ class Solution:
 
         backtrack(0, target, [])
         return result
+
+#time complexity: O(N^T/M) where N is the number of candidates, T is the target value, and M is the average length of the combinations found. This is because in the worst case, we explore all possible combinations of candidates that sum up to the target.
+#space complexity: O(T/M) where T is the target value and M is the average
+# length of the combinations found. This is because the maximum depth of the recursion tree can be T/M when we are adding candidates to the path. Additionally, we also have space for storing the result, which can also grow based on the number of valid combinations found.
