@@ -44,3 +44,7 @@ class Solution(object):
         
         p1.next=p1.next.next
         return head
+
+# The idea is to use two pointers, p1 and p2. We move p2 n steps ahead of p1. Then we move both pointers one step at a time until p2 reaches the end of the list. At this point, p1 will be pointing to the node just before the node we want to remove. We can then skip the node to be removed by setting p1.next to p1.next.next. Finally, we return the head of the modified list.
+# Time complexity: O(L), where L is the length of the linked list.
+# Space complexity: O(1), since we are using only a constant amount of extra space
