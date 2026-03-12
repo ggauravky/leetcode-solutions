@@ -38,3 +38,7 @@ class Solution:
             seen[num] = i
 
         return False
+
+# Complexity Analysis
+# Time Complexity: O(n), where n is the length of the input array nums. We traverse the array once.
+# Space Complexity: O(n), in the worst case, we may store all elements of the array in the seen dictionary if all elements are distinct.
