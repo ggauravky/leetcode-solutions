@@ -63,3 +63,7 @@ class Solution:
             fast = fast.next
         
         return slow
+    
+
+# Time complexity: O(n)
+# Space complexity: O(1)
