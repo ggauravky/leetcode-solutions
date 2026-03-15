@@ -40,3 +40,7 @@ class Solution:
             result += ch * count[ch]
         
         return result
+
+#complexity analysis
+# Time complexity: O(n log n), where n is the length of the input string s. This is because we need to sort the characters based on their frequency, which takes O(n log n) time in the worst case.
+# Space complexity: O(n), where n is the length of the input string s. This is because we need to store the frequency of each character in a dictionary, which can take up to O(n) space in the worst case if all characters are unique. Additionally, the result string can also take up to O(n) space in the worst case if all characters are unique. 
