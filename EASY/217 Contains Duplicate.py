@@ -32,3 +32,8 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         return len(nums) != len(set(nums))
+    
+
+#` Complexity Analysis
+# Time Complexity: O(n), where n is the length of the input array nums. We  traverse the array once to create a set of unique elements, which takes O(n) time.
+# Space Complexity: O(n), in the worst case, if all elements in the array are distinct, the set will contain all n elements, resulting in O(n) space complexity.    
