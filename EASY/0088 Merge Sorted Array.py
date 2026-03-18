@@ -48,3 +48,6 @@ n = 1
 nums=nums1+nums2
 nums=sorted(nums)
 print(nums)
+
+#time complexity: O((m+n)log(m+n))
+#space complexity: O(m+n)
