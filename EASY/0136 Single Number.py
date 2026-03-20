@@ -49,3 +49,7 @@ class Solution(object):
         for num in count:
             if count[num] == 1:
                 return num
+            
+
+# Time complexity: O(n)
+# Space complexity: O(n)
