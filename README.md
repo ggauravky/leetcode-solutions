@@ -9,6 +9,7 @@
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-150-orange?style=for-the-badge&logo=leetcode&logoColor=white)](#)
 [![Daily Progress](https://img.shields.io/badge/Daily%20Commitment-1%20Problem-00C853?style=for-the-badge&logo=target&logoColor=white)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
 [![Stars](https://img.shields.io/github/stars/ggauravky/leetcode-solutions?style=for-the-badge&logo=github&color=yellow)](https://github.com/ggauravky/leetcode-solutions)
@@ -37,6 +38,7 @@
 | 26 | Remove Duplicates from Sorted Array | 🟢 Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](<EASY/0026 Remove Duplicates from Sorted Array.py>) |
 | 27 | Remove Element | 🟢 Easy | [Link](https://leetcode.com/problems/remove-element/) | [Solution](<EASY/0027 Remove Element.py>) |
 | 35 | Search Insert Position | 🟢 Easy | [Link](https://leetcode.com/problems/search-insert-position/) | [Solution](<EASY/0035 Search Insert Position.py>) |
+| 38 | Count and Say | 🟡 Medium | [Link](https://leetcode.com/problems/count-and-say/) | [Solution](<MEDIUM/0038 Count and Say.py>) |
 | 39 | Combination Sum | 🟡 Medium | [Link](https://leetcode.com/problems/combination-sum/) | [Solution](<MEDIUM/0039 Combination Sum.py>) |
 | 43 | Multiply Strings | 🟡 Medium | [Link](https://leetcode.com/problems/multiply-strings/) | [Solution](<MEDIUM/0043 Multiply Strings.py>) |
 | 46 | Permutations | 🟡 Medium | [Link](https://leetcode.com/problems/permutations/) | [Solution](<MEDIUM/0046 Permutations.py>) |
@@ -84,12 +86,14 @@
 | 278 | First Bad Version | 🟢 Easy | [Link](https://leetcode.com/problems/first-bad-version/) | [Solution](<EASY/0278 First Bad Version.py>) |
 | 283 | Move Zeroes | 🟢 Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Solution](<EASY/0283 Move Zeroes.py>) |
 | 287 | Find the Duplicate Number | 🟡 Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](<MEDIUM/287. Find the Duplicate Number.py>) |
+| 349 | Intersection of Two Arrays | 🟢 Easy | [Link](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](<EASY/0349 Intersection of Two Arrays.py>) |
 | 367 | Valid Perfect Square | 🟢 Easy | [Link](https://leetcode.com/problems/valid-perfect-square/) | [Solution](<EASY/0367 Valid Perfect Square.py>) |
 | 374 | Guess Number Higher or Lower | 🟢 Easy | [Link](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](<EASY/0374 Guess Number Higher or Lower.py>) |
 | 389 | Find the Difference | 🟢 Easy | [Link](https://leetcode.com/problems/find-the-difference/) | [Solution](<EASY/0389 Find the Difference.py>) |
 | 392 | Is Subsequence | 🟢 Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Solution](<EASY/0392 Is Subsequence.py>) |
 | 412 | Fizz Buzz | 🟢 Easy | [Link](https://leetcode.com/problems/fizz-buzz/) | [Solution](<EASY/0412 Fizz Buzz.py>) |
 | 414 | Third Maximum Number | 🟢 Easy | [Link](https://leetcode.com/problems/third-maximum-number/) | [Solution](<EASY/0414 Third Maximum Number.py>) |
+| 441 | Arranging Coins | 🟢 Easy | [Link](https://leetcode.com/problems/arranging-coins/) | [Solution](<EASY/0441 Arranging Coins.py>) |
 | 451 | Sort Characters By Frequency | 🟡 Medium | [Link](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](<MEDIUM/0451 Sort Characters By Frequency.py>) |
 | 485 | Max Consecutive Ones | 🟢 Easy | [Link](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](<EASY/0485 Max Consecutive Ones.py>) |
 | 496 | Next Greater Element I | 🟢 Easy | [Link](https://leetcode.com/problems/next-greater-element-i/) | [Solution](<EASY/0496 Next Greater Element I.py>) |
@@ -113,7 +117,9 @@
 | 1108 | Defanging an IP Address | 🟢 Easy | [Link](https://leetcode.com/problems/defanging-an-ip-address/) | [Solution](<EASY/1108 Defanging an IP Address.py>) |
 | 1137 | N-th Tribonacci Number | 🟢 Easy | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) | [Solution](<EASY/1137 N-th Tribonacci Number.py>) |
 | 1148 | Article Views I | 🟢 Easy | [Link](https://leetcode.com/problems/article-views-i/) | [Solution](<EASY/1148 Article Views I.py>) |
+| 1221 | Split a String in Balanced Strings | 🟢 Easy | [Link](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Solution](<EASY/1221 Split a String in Balanced Strings.py>) |
 | 1280 | Students and Examinations | 🟢 Easy | [Link](https://leetcode.com/problems/students-and-examinations/) | [Solution](<EASY/1280 Students and Examinations.py>) |
+| 1342 | Number of Steps to Reduce a Number to Zero | 🟢 Easy | [Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution](<EASY/1342 Number of Steps to Reduce a Number to Zero.py>) |
 | 1378 | Replace Employee ID With The Unique Identifier | 🟢 Easy | [Link](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [Solution](<EASY/1378. Replace Employee ID With The Unique Identifier.py>) |
 | 1408 | String Matching in an Array | 🟢 Easy | [Link](https://leetcode.com/problems/string-matching-in-an-array/) | [Solution](<EASY/1408 String Matching in an Array.py>) |
 | 1480 | Running Sum of 1d Array | 🟢 Easy | [Link](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution](<EASY/1480 Running Sum of 1d Array.py>) |
@@ -133,14 +139,19 @@
 | 1781 | Sum of Beauty of All Substrings | 🟡 Medium | [Link](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Solution](<MEDIUM/1781 Sum of Beauty of All Substrings.py>) |
 | 1795 | Rearrange Products Table | 🟢 Easy | [Link](https://leetcode.com/problems/rearrange-products-table/) | [Solution](<EASY/1795 Rearrange Products Table.py>) |
 | 1822 | Sign of the Product of an Array | 🟢 Easy | [Link](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Solution](<EASY/1822 Sign of the Product of an Array.py>) |
+| 1827 | Minimum Operations to Make the Array Increasing | 🟢 Easy | [Link](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Solution](<EASY/1827 Minimum Operations to Make the Array Increasing.py>) |
+| 1859 | Sorting the Sentence | 🟢 Easy | [Link](https://leetcode.com/problems/sorting-the-sentence/) | [Solution](<EASY/1859 Sorting the Sentence.py>) |
 | 1873 | Calculate Special Bonus | 🟢 Easy | [Link](https://leetcode.com/problems/calculate-special-bonus/) | [Solution](<EASY/1873 Calculate Special Bonus.py>) |
 | 1903 | Largest Odd Number in String | 🟢 Easy | [Link](https://leetcode.com/problems/largest-odd-number-in-string/) | [Solution](<EASY/1903 Largest Odd Number in String.py>) |
 | 1907 | Count Salary Categories | 🟡 Medium | [Link](https://leetcode.com/problems/count-salary-categories/) | [Solution](<MEDIUM/1907 Count Salary Categories.py>) |
 | 1952 | Three Divisors | 🟢 Easy | [Link](https://leetcode.com/problems/three-divisors/) | [Solution](<EASY/1952 Three Divisors.py>) |
+| 1991 | Find the Middle Index in Array | 🟢 Easy | [Link](https://leetcode.com/problems/find-the-middle-index-in-array/) | [Solution](<EASY/1991 Find the Middle Index in Array.py>) |
+| 2108 | Find First Palindromic String in the Array | 🟢 Easy | [Link](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Solution](<EASY/2108 Find First Palindromic String in the Array.py>) |
 | 2144 | Minimum Cost of Buying Candies With Discount | 🟢 Easy | [Link](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Solution](<EASY/2144 Minimum Cost of Buying Candies With Discount.py>) |
 | 2185 | Counting Words With a Given Prefix | 🟢 Easy | [Link](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Solution](<EASY/2185 Counting Words With a Given Prefix.py>) |
 | 2356 | Number of Unique Subjects Taught by Each Teacher | 🟢 Easy | [Link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [Solution](<EASY/2356 Number of Unique Subjects Taught by Each Teacher.py>) |
 | 2413 | Smallest Even Multiple | 🟢 Easy | [Link](https://leetcode.com/problems/smallest-even-multiple/) | [Solution](<EASY/2413 Smallest Even Multiple.py>) |
+| 2427 | Number of Common Factors | 🟢 Easy | [Link](https://leetcode.com/problems/number-of-common-factors/) | [Solution](<EASY/2427 Number of Common Factors.py>) |
 | 2620 | Counter | 🟢 Easy | [Link](https://leetcode.com/problems/counter/) | [Solution](<EASY/2620 Counter.py>) |
 | 2621 | Sleep | 🟢 Easy | [Link](https://leetcode.com/problems/sleep/) | [Solution](<EASY/2621 Sleep.py>) |
 | 2623 | Memoize | 🟡 Medium | [Link](https://leetcode.com/problems/memoize/) | [Solution](<MEDIUM/2623 Memoize.py>) |
@@ -148,6 +159,7 @@
 | 2629 | Function Composition | 🟢 Easy | [Link](https://leetcode.com/problems/function-composition/) | [Solution](<EASY/2629 Function Composition.py>) |
 | 2634 | Filter Elements from Array | 🟢 Easy | [Link](https://leetcode.com/problems/filter-elements-from-array/) | [Solution](<EASY/2634 Filter Elements from Array.py>) |
 | 2635 | Apply Transform Over Each Element in Array | 🟢 Easy | [Link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Solution](<EASY/2635 Apply Transform Over Each Element in Array.py>) |
+| 2652 | Sum Multiples | 🟢 Easy | [Link](https://leetcode.com/problems/sum-multiples/) | [Solution](<EASY/2652 Sum Multiples.py>) |
 | 2665 | Counter II | 🟢 Easy | [Link](https://leetcode.com/problems/counter-ii/) | [Solution](<EASY/2665 Counter II.py>) |
 | 2666 | Allow One Function Call | 🟢 Easy | [Link](https://leetcode.com/problems/allow-one-function-call/) | [Solution](<EASY/2666 Allow One Function Call.py>) |
 | 2667 | Create Hello World Function | 🟢 Easy | [Link](https://leetcode.com/problems/create-hello-world-function/) | [Solution](<EASY/2667 Create Hello World Function.py>) |
@@ -157,10 +169,13 @@
 | 2723 | Add Two Promises | 🟢 Easy | [Link](https://leetcode.com/problems/add-two-promises/) | [Solution](<EASY/2723 Add Two Promises.py>) |
 | 2942 | Find Words Containing Character | 🟢 Easy | [Link](https://leetcode.com/problems/find-words-containing-character/) | [Solution](<EASY/2942 Find Words Containing Character.py>) |
 | 3232 | Find if Digit Game Can Be Won | 🟢 Easy | [Link](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Solution](<EASY/3232 Find if Digit Game Can Be Won.py>) |
-| - | Q1. Smallest Stable Index i | 🏁 Contest | - | [Solution](<Weekly Contest/Weekly Contest 498/Q1. Smallest Stable Index i .py>) |
-| - | Q2. Smallest Stable Index II | 🏁 Contest | - | [Solution](<Weekly Contest/Weekly Contest 498/Q2. Smallest Stable Index II .py>) |
-| - | Q3. Multi Source Flood Fill | 🏁 Contest | - | [Solution](<Weekly Contest/Weekly Contest 498/Q3. Multi Source Flood Fill .py>) |
-| - | Q4. Count Good Integers on a Grid Path | 🏁 Contest | - | [Solution](<Weekly Contest/Weekly Contest 498/Q4. Count Good Integers on a Grid Path .py>) |
+| 3536 | Maximum Product of Two Digits | 🟢 Easy | [Link](https://leetcode.com/problems/maximum-product-of-two-digits/) | [Solution](<EASY/3536 Maximum Product of Two Digits.py>) |
+| 3633 | Earliest Finish Time for Land and Water Rides I | 🟢 Easy | [Link](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Solution](<EASY/3633 Earliest Finish Time for Land and Water Rides I.py>) |
+| 3731 | Find Missing Elements | 🟢 Easy | [Link](https://leetcode.com/problems/find-missing-elements/) | [Solution](<EASY/3731 Find Missing Elements.py>) |
+| 3903 | Q1. Smallest Stable Index I | 🏁 Contest | [Link](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](<Weekly Contest/Weekly Contest 498/Q1. Smallest Stable Index i .py>) |
+| 3904 | Q2. Smallest Stable Index II | 🏁 Contest | [Link](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](<Weekly Contest/Weekly Contest 498/Q2. Smallest Stable Index II .py>) |
+| 3905 | Q3. Multi Source Flood Fill | 🏁 Contest | [Link](https://leetcode.com/problems/multi-source-flood-fill/) | [Solution](<Weekly Contest/Weekly Contest 498/Q3. Multi Source Flood Fill .py>) |
+| 3906 | Q4. Count Good Integers on a Grid Path | 🏁 Contest | [Link](https://leetcode.com/problems/count-good-integers-on-a-grid-path/) | [Solution](<Weekly Contest/Weekly Contest 498/Q4. Count Good Integers on a Grid Path .py>) |
 
 ---
 
@@ -188,13 +203,16 @@ This repository contains my journey through LeetCode problems, solving at least 
 📦 leetcode-solutions/
 │
 ├── 📁 EASY/
-│   └── 88 Easy problems solved
+│   └── 118 Easy problems solved
 │
 ├── 📁 MEDIUM/
-│   └── 24 Medium problems solved
+│   └── 28 Medium problems solved
 │
 ├── 📁 HARD/
 │   └── 0 Hard problems solved
+│
+├── 📁 Weekly Contest/
+│   └── 4 Contest problems solved
 │
 └── 📄 README.md
 ```
@@ -209,11 +227,11 @@ This repository contains my journey through LeetCode problems, solving at least 
 
 | Category | Solved | Percentage                                                             |
 | -------- | ------ | ---------------------------------------------------------------------- |
-| 🟢 Easy  | 105    | ![Progress](https://img.shields.io/badge/Progress-Growing-brightgreen) |
-| 🟡 Medium | 27     | ![Progress](https://img.shields.io/badge/Progress-Growing-yellow)      |
+| 🟢 Easy  | 118    | ![Progress](https://img.shields.io/badge/Progress-Growing-brightgreen) |
+| 🟡 Medium | 28     | ![Progress](https://img.shields.io/badge/Progress-Growing-yellow)      |
 | 🔴 Hard  | 0      | ![Progress](https://img.shields.io/badge/Progress-Coming%20Soon-red)   |
 | 🏁 Contest | 4      | ![Progress](https://img.shields.io/badge/Progress-Growing-purple)      |
-| **Total** | **136** | **🎯**                                                                |
+| **Total** | **150** | **🎯**                                                                |
 
 ---
 
