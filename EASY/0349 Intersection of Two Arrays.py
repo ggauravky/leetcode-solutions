@@ -19,6 +19,31 @@
 # Explanation: [4,9] is also accepted.
 
 
-class Solution:
-    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        return list(set(nums1) & set(nums2))
+# class Solution:
+#     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
+#         return list(set(nums1) & set(nums2))
+
+nums1 = [4,9,5]
+nums2 = [9,4,9,8,4]
+
+nums1 = set(nums1)
+nums2 = set(nums2)
+
+nums1=list(nums1)
+nums2=list(nums2)
+res=[]
+
+nums1 = [4,9,5]
+nums2 = [9,4,9,8,4]
+
+nums1 = list(set(nums1))
+nums2 = list(set(nums2))
+
+res = []
+
+for i in nums1:
+    for j in nums2:
+        if i == j:
+            res.append(i)
+
+print(res)
