@@ -1,0 +1,662 @@
+{
+  "leetcode": {
+    "1": {
+      "title": "Two Sum",
+      "url": "https://leetcode.com/problems/two-sum/"
+    },
+    "2": {
+      "title": "Add Two Numbers",
+      "url": "https://leetcode.com/problems/add-two-numbers/"
+    },
+    "7": {
+      "title": "Reverse Integer",
+      "url": "https://leetcode.com/problems/reverse-integer/"
+    },
+    "9": {
+      "title": "Palindrome Number",
+      "url": "https://leetcode.com/problems/palindrome-number/"
+    },
+    "13": {
+      "title": "Roman to Integer",
+      "url": "https://leetcode.com/problems/roman-to-integer/"
+    },
+    "14": {
+      "title": "Longest Common Prefix",
+      "url": "https://leetcode.com/problems/longest-common-prefix/"
+    },
+    "17": {
+      "title": "Letter Combinations of a Phone Number",
+      "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    "19": {
+      "title": "Remove Nth Node From End of List",
+      "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    },
+    "20": {
+      "title": "Valid Parentheses",
+      "url": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    "26": {
+      "title": "Remove Duplicates from Sorted Array",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+    },
+    "27": {
+      "title": "Remove Element",
+      "url": "https://leetcode.com/problems/remove-element/"
+    },
+    "35": {
+      "title": "Search Insert Position",
+      "url": "https://leetcode.com/problems/search-insert-position/"
+    },
+    "38": {
+      "title": "Count and Say",
+      "url": "https://leetcode.com/problems/count-and-say/"
+    },
+    "39": {
+      "title": "Combination Sum",
+      "url": "https://leetcode.com/problems/combination-sum/"
+    },
+    "43": {
+      "title": "Multiply Strings",
+      "url": "https://leetcode.com/problems/multiply-strings/"
+    },
+    "46": {
+      "title": "Permutations",
+      "url": "https://leetcode.com/problems/permutations/"
+    },
+    "50": {
+      "title": "Pow(x, n)",
+      "url": "https://leetcode.com/problems/powx-n/"
+    },
+    "53": {
+      "title": "Maximum Subarray",
+      "url": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    "54": {
+      "title": "Spiral Matrix",
+      "url": "https://leetcode.com/problems/spiral-matrix/"
+    },
+    "58": {
+      "title": "Length of Last Word",
+      "url": "https://leetcode.com/problems/length-of-last-word/"
+    },
+    "61": {
+      "title": "Rotate List",
+      "url": "https://leetcode.com/problems/rotate-list/"
+    },
+    "66": {
+      "title": "Plus One",
+      "url": "https://leetcode.com/problems/plus-one/"
+    },
+    "69": {
+      "title": "Sqrt(x)",
+      "url": "https://leetcode.com/problems/sqrtx/"
+    },
+    "70": {
+      "title": "Climbing Stairs",
+      "url": "https://leetcode.com/problems/climbing-stairs/"
+    },
+    "75": {
+      "title": "Sort Colors",
+      "url": "https://leetcode.com/problems/sort-colors/"
+    },
+    "83": {
+      "title": "Remove Duplicates from Sorted List",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/"
+    },
+    "88": {
+      "title": "Merge Sorted Array",
+      "url": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    "118": {
+      "title": "Pascal's Triangle",
+      "url": "https://leetcode.com/problems/pascals-triangle/"
+    },
+    "119": {
+      "title": "Pascal's Triangle II",
+      "url": "https://leetcode.com/problems/pascals-triangle-ii/"
+    },
+    "121": {
+      "title": "Best Time to Buy and Sell Stock",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    "122": {
+      "title": "Best Time to Buy and Sell Stock II",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    "125": {
+      "title": "Valid Palindrome",
+      "url": "https://leetcode.com/problems/valid-palindrome/"
+    },
+    "128": {
+      "title": "Longest Consecutive Sequence",
+      "url": "https://leetcode.com/problems/longest-consecutive-sequence/"
+    },
+    "136": {
+      "title": "Single Number",
+      "url": "https://leetcode.com/problems/single-number/"
+    },
+    "141": {
+      "title": "Linked List Cycle",
+      "url": "https://leetcode.com/problems/linked-list-cycle/"
+    },
+    "142": {
+      "title": "Linked List Cycle II",
+      "url": "https://leetcode.com/problems/linked-list-cycle-ii/"
+    },
+    "160": {
+      "title": "Intersection of Two Linked Lists",
+      "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+    },
+    "167": {
+      "title": "Two Sum II - Input Array Is Sorted",
+      "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+    },
+    "169": {
+      "title": "Majority Element",
+      "url": "https://leetcode.com/problems/majority-element/"
+    },
+    "176": {
+      "title": "Second Highest Salary",
+      "url": "https://leetcode.com/problems/second-highest-salary/"
+    },
+    "177": {
+      "title": "Nth Highest Salary",
+      "url": "https://leetcode.com/problems/nth-highest-salary/"
+    },
+    "178": {
+      "title": "Rank Scores",
+      "url": "https://leetcode.com/problems/rank-scores/"
+    },
+    "183": {
+      "title": "Customers Who Never Order",
+      "url": "https://leetcode.com/problems/customers-who-never-order/"
+    },
+    "184": {
+      "title": "Department Highest Salary",
+      "url": "https://leetcode.com/problems/department-highest-salary/"
+    },
+    "189": {
+      "title": "Rotate Array",
+      "url": "https://leetcode.com/problems/rotate-array/"
+    },
+    "196": {
+      "title": "Delete Duplicate Emails",
+      "url": "https://leetcode.com/problems/delete-duplicate-emails/"
+    },
+    "202": {
+      "title": "Happy Number",
+      "url": "https://leetcode.com/problems/happy-number/"
+    },
+    "206": {
+      "title": "Reverse Linked List",
+      "url": "https://leetcode.com/problems/reverse-linked-list/"
+    },
+    "217": {
+      "title": "Contains Duplicate",
+      "url": "https://leetcode.com/problems/contains-duplicate/"
+    },
+    "219": {
+      "title": "Contains Duplicate II",
+      "url": "https://leetcode.com/problems/contains-duplicate-ii/"
+    },
+    "225": {
+      "title": "Implement Stack using Queues",
+      "url": "https://leetcode.com/problems/implement-stack-using-queues/"
+    },
+    "231": {
+      "title": "Power of Two",
+      "url": "https://leetcode.com/problems/power-of-two/"
+    },
+    "232": {
+      "title": "Implement Queue using Stacks",
+      "url": "https://leetcode.com/problems/implement-queue-using-stacks/"
+    },
+    "237": {
+      "title": "Delete Node in a Linked List",
+      "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/"
+    },
+    "242": {
+      "title": "Valid Anagram",
+      "url": "https://leetcode.com/problems/valid-anagram/"
+    },
+    "258": {
+      "title": "Add Digits",
+      "url": "https://leetcode.com/problems/add-digits/"
+    },
+    "278": {
+      "title": "First Bad Version",
+      "url": "https://leetcode.com/problems/first-bad-version/"
+    },
+    "283": {
+      "title": "Move Zeroes",
+      "url": "https://leetcode.com/problems/move-zeroes/"
+    },
+    "287": {
+      "title": "Find the Duplicate Number",
+      "url": "https://leetcode.com/problems/find-the-duplicate-number/"
+    },
+    "349": {
+      "title": "Intersection of Two Arrays",
+      "url": "https://leetcode.com/problems/intersection-of-two-arrays/"
+    },
+    "367": {
+      "title": "Valid Perfect Square",
+      "url": "https://leetcode.com/problems/valid-perfect-square/"
+    },
+    "374": {
+      "title": "Guess Number Higher or Lower",
+      "url": "https://leetcode.com/problems/guess-number-higher-or-lower/"
+    },
+    "389": {
+      "title": "Find the Difference",
+      "url": "https://leetcode.com/problems/find-the-difference/"
+    },
+    "392": {
+      "title": "Is Subsequence",
+      "url": "https://leetcode.com/problems/is-subsequence/"
+    },
+    "412": {
+      "title": "Fizz Buzz",
+      "url": "https://leetcode.com/problems/fizz-buzz/"
+    },
+    "414": {
+      "title": "Third Maximum Number",
+      "url": "https://leetcode.com/problems/third-maximum-number/"
+    },
+    "441": {
+      "title": "Arranging Coins",
+      "url": "https://leetcode.com/problems/arranging-coins/"
+    },
+    "451": {
+      "title": "Sort Characters By Frequency",
+      "url": "https://leetcode.com/problems/sort-characters-by-frequency/"
+    },
+    "485": {
+      "title": "Max Consecutive Ones",
+      "url": "https://leetcode.com/problems/max-consecutive-ones/"
+    },
+    "496": {
+      "title": "Next Greater Element I",
+      "url": "https://leetcode.com/problems/next-greater-element-i/"
+    },
+    "503": {
+      "title": "Next Greater Element II",
+      "url": "https://leetcode.com/problems/next-greater-element-ii/"
+    },
+    "509": {
+      "title": "Fibonacci Number",
+      "url": "https://leetcode.com/problems/fibonacci-number/"
+    },
+    "511": {
+      "title": "Game Play Analysis I",
+      "url": "https://leetcode.com/problems/game-play-analysis-i/"
+    },
+    "586": {
+      "title": "Customer Placing the Largest Number of Orders",
+      "url": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/"
+    },
+    "595": {
+      "title": "Big Countries",
+      "url": "https://leetcode.com/problems/big-countries/"
+    },
+    "596": {
+      "title": "Classes With at Least 5 Students",
+      "url": "https://leetcode.com/problems/classes-more-than-5-students/"
+    },
+    "605": {
+      "title": "Can Place Flowers",
+      "url": "https://leetcode.com/problems/can-place-flowers/"
+    },
+    "607": {
+      "title": "Sales Person",
+      "url": "https://leetcode.com/problems/sales-person/"
+    },
+    "682": {
+      "title": "Baseball Game",
+      "url": "https://leetcode.com/problems/baseball-game/"
+    },
+    "704": {
+      "title": "Binary Search",
+      "url": "https://leetcode.com/problems/binary-search/"
+    },
+    "796": {
+      "title": "Rotate String",
+      "url": "https://leetcode.com/problems/rotate-string/"
+    },
+    "844": {
+      "title": "Backspace String Compare",
+      "url": "https://leetcode.com/problems/backspace-string-compare/"
+    },
+    "876": {
+      "title": "Middle of the Linked List",
+      "url": "https://leetcode.com/problems/middle-of-the-linked-list/"
+    },
+    "905": {
+      "title": "Sort Array By Parity",
+      "url": "https://leetcode.com/problems/sort-array-by-parity/"
+    },
+    "942": {
+      "title": "DI String Match",
+      "url": "https://leetcode.com/problems/di-string-match/"
+    },
+    "977": {
+      "title": "Squares of a Sorted Array",
+      "url": "https://leetcode.com/problems/squares-of-a-sorted-array/"
+    },
+    "1050": {
+      "title": "Actors and Directors Who Cooperated At Least Three Times",
+      "url": "https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/"
+    },
+    "1108": {
+      "title": "Defanging an IP Address",
+      "url": "https://leetcode.com/problems/defanging-an-ip-address/"
+    },
+    "1137": {
+      "title": "N-th Tribonacci Number",
+      "url": "https://leetcode.com/problems/n-th-tribonacci-number/"
+    },
+    "1148": {
+      "title": "Article Views I",
+      "url": "https://leetcode.com/problems/article-views-i/"
+    },
+    "1221": {
+      "title": "Split a String in Balanced Strings",
+      "url": "https://leetcode.com/problems/split-a-string-in-balanced-strings/"
+    },
+    "1280": {
+      "title": "Students and Examinations",
+      "url": "https://leetcode.com/problems/students-and-examinations/"
+    },
+    "1342": {
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+    },
+    "1378": {
+      "title": "Replace Employee ID With The Unique Identifier",
+      "url": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/"
+    },
+    "1408": {
+      "title": "String Matching in an Array",
+      "url": "https://leetcode.com/problems/string-matching-in-an-array/"
+    },
+    "1480": {
+      "title": "Running Sum of 1d Array",
+      "url": "https://leetcode.com/problems/running-sum-of-1d-array/"
+    },
+    "1484": {
+      "title": "Group Sold Products By The Date",
+      "url": "https://leetcode.com/problems/group-sold-products-by-the-date/"
+    },
+    "1517": {
+      "title": "Find Users With Valid E-Mails",
+      "url": "https://leetcode.com/problems/find-users-with-valid-e-mails/"
+    },
+    "1523": {
+      "title": "Count Odd Numbers in an Interval Range",
+      "url": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/"
+    },
+    "1527": {
+      "title": "Patients With a Condition",
+      "url": "https://leetcode.com/problems/patients-with-a-condition/"
+    },
+    "1550": {
+      "title": "Three Consecutive Odds",
+      "url": "https://leetcode.com/problems/three-consecutive-odds/"
+    },
+    "1614": {
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/"
+    },
+    "1667": {
+      "title": "Fix Names in a Table",
+      "url": "https://leetcode.com/problems/fix-names-in-a-table/"
+    },
+    "1672": {
+      "title": "Richest Customer Wealth",
+      "url": "https://leetcode.com/problems/richest-customer-wealth/"
+    },
+    "1683": {
+      "title": "Invalid Tweets",
+      "url": "https://leetcode.com/problems/invalid-tweets/"
+    },
+    "1693": {
+      "title": "Daily Leads and Partners",
+      "url": "https://leetcode.com/problems/daily-leads-and-partners/"
+    },
+    "1741": {
+      "title": "Find Total Time Spent by Each Employee",
+      "url": "https://leetcode.com/problems/find-total-time-spent-by-each-employee/"
+    },
+    "1752": {
+      "title": "Check if Array Is Sorted and Rotated",
+      "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/"
+    },
+    "1757": {
+      "title": "Recyclable and Low Fat Products",
+      "url": "https://leetcode.com/problems/recyclable-and-low-fat-products/"
+    },
+    "1781": {
+      "title": "Sum of Beauty of All Substrings",
+      "url": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/"
+    },
+    "1795": {
+      "title": "Rearrange Products Table",
+      "url": "https://leetcode.com/problems/rearrange-products-table/"
+    },
+    "1822": {
+      "title": "Sign of the Product of an Array",
+      "url": "https://leetcode.com/problems/sign-of-the-product-of-an-array/"
+    },
+    "1827": {
+      "title": "Minimum Operations to Make the Array Increasing",
+      "url": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/"
+    },
+    "1859": {
+      "title": "Sorting the Sentence",
+      "url": "https://leetcode.com/problems/sorting-the-sentence/"
+    },
+    "1873": {
+      "title": "Calculate Special Bonus",
+      "url": "https://leetcode.com/problems/calculate-special-bonus/"
+    },
+    "1903": {
+      "title": "Largest Odd Number in String",
+      "url": "https://leetcode.com/problems/largest-odd-number-in-string/"
+    },
+    "1907": {
+      "title": "Count Salary Categories",
+      "url": "https://leetcode.com/problems/count-salary-categories/"
+    },
+    "1952": {
+      "title": "Three Divisors",
+      "url": "https://leetcode.com/problems/three-divisors/"
+    },
+    "1991": {
+      "title": "Find the Middle Index in Array",
+      "url": "https://leetcode.com/problems/find-the-middle-index-in-array/"
+    },
+    "2108": {
+      "title": "Find First Palindromic String in the Array",
+      "url": "https://leetcode.com/problems/find-first-palindromic-string-in-the-array/"
+    },
+    "2144": {
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/"
+    },
+    "2185": {
+      "title": "Counting Words With a Given Prefix",
+      "url": "https://leetcode.com/problems/counting-words-with-a-given-prefix/"
+    },
+    "2356": {
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "url": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/"
+    },
+    "2413": {
+      "title": "Smallest Even Multiple",
+      "url": "https://leetcode.com/problems/smallest-even-multiple/"
+    },
+    "2427": {
+      "title": "Number of Common Factors",
+      "url": "https://leetcode.com/problems/number-of-common-factors/"
+    },
+    "2620": {
+      "title": "Counter",
+      "url": "https://leetcode.com/problems/counter/"
+    },
+    "2621": {
+      "title": "Sleep",
+      "url": "https://leetcode.com/problems/sleep/"
+    },
+    "2623": {
+      "title": "Memoize",
+      "url": "https://leetcode.com/problems/memoize/"
+    },
+    "2626": {
+      "title": "Array Reduce Transformation",
+      "url": "https://leetcode.com/problems/array-reduce-transformation/"
+    },
+    "2629": {
+      "title": "Function Composition",
+      "url": "https://leetcode.com/problems/function-composition/"
+    },
+    "2634": {
+      "title": "Filter Elements from Array",
+      "url": "https://leetcode.com/problems/filter-elements-from-array/"
+    },
+    "2635": {
+      "title": "Apply Transform Over Each Element in Array",
+      "url": "https://leetcode.com/problems/apply-transform-over-each-element-in-array/"
+    },
+    "2652": {
+      "title": "Sum Multiples",
+      "url": "https://leetcode.com/problems/sum-multiples/"
+    },
+    "2665": {
+      "title": "Counter II",
+      "url": "https://leetcode.com/problems/counter-ii/"
+    },
+    "2666": {
+      "title": "Allow One Function Call",
+      "url": "https://leetcode.com/problems/allow-one-function-call/"
+    },
+    "2667": {
+      "title": "Create Hello World Function",
+      "url": "https://leetcode.com/problems/create-hello-world-function/"
+    },
+    "2703": {
+      "title": "Return Length of Arguments Passed",
+      "url": "https://leetcode.com/problems/return-length-of-arguments-passed/"
+    },
+    "2704": {
+      "title": "To Be Or Not To Be",
+      "url": "https://leetcode.com/problems/to-be-or-not-to-be/"
+    },
+    "2715": {
+      "title": "Timeout Cancellation",
+      "url": "https://leetcode.com/problems/timeout-cancellation/"
+    },
+    "2723": {
+      "title": "Add Two Promises",
+      "url": "https://leetcode.com/problems/add-two-promises/"
+    },
+    "2942": {
+      "title": "Find Words Containing Character",
+      "url": "https://leetcode.com/problems/find-words-containing-character/"
+    },
+    "3232": {
+      "title": "Find if Digit Game Can Be Won",
+      "url": "https://leetcode.com/problems/find-if-digit-game-can-be-won/"
+    },
+    "3536": {
+      "title": "Maximum Product of Two Digits",
+      "url": "https://leetcode.com/problems/maximum-product-of-two-digits/"
+    },
+    "3633": {
+      "title": "Earliest Finish Time for Land and Water Rides I",
+      "url": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/"
+    },
+    "3731": {
+      "title": "Find Missing Elements",
+      "url": "https://leetcode.com/problems/find-missing-elements/"
+    },
+    "3903": {
+      "title": "Q1. Smallest Stable Index I",
+      "url": "https://leetcode.com/problems/smallest-stable-index-i/"
+    },
+    "3904": {
+      "title": "Q2. Smallest Stable Index II",
+      "url": "https://leetcode.com/problems/smallest-stable-index-ii/"
+    },
+    "3905": {
+      "title": "Q3. Multi Source Flood Fill",
+      "url": "https://leetcode.com/problems/multi-source-flood-fill/"
+    },
+    "3906": {
+      "title": "Q4. Count Good Integers on a Grid Path",
+      "url": "https://leetcode.com/problems/count-good-integers-on-a-grid-path/"
+    },
+    "463": {
+      "title": "Island Perimeter",
+      "url": "https://leetcode.com/problems/island-perimeter/"
+    },
+    "506": {
+      "title": "Relative Ranks",
+      "url": "https://leetcode.com/problems/relative-ranks/"
+    },
+    "575": {
+      "title": "Distribute Candies",
+      "url": "https://leetcode.com/problems/distribute-candies/"
+    }
+  },
+  "leetcode_contests": {
+    "LeetCode/Weekly Contest/Weekly Contest 498/Q1. Smallest Stable Index i .py": {
+      "id": 3903,
+      "contest_name": "Weekly Contest 498",
+      "question_number": "Q1",
+      "title": "Q1. Smallest Stable Index I",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/smallest-stable-index-i/"
+    },
+    "LeetCode/Weekly Contest/Weekly Contest 498/Q2. Smallest Stable Index II .py": {
+      "id": 3904,
+      "contest_name": "Weekly Contest 498",
+      "question_number": "Q2",
+      "title": "Q2. Smallest Stable Index II",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/smallest-stable-index-ii/"
+    },
+    "LeetCode/Weekly Contest/Weekly Contest 498/Q3. Multi Source Flood Fill .py": {
+      "id": 3905,
+      "contest_name": "Weekly Contest 498",
+      "question_number": "Q3",
+      "title": "Q3. Multi Source Flood Fill",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/multi-source-flood-fill/"
+    },
+    "LeetCode/Weekly Contest/Weekly Contest 498/Q4. Count Good Integers on a Grid Path .py": {
+      "id": 3906,
+      "contest_name": "Weekly Contest 498",
+      "question_number": "Q4",
+      "title": "Q4. Count Good Integers on a Grid Path",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/count-good-integers-on-a-grid-path/"
+    }
+  },
+  "codechef": {
+    "CodeChef/0000-0999/001 SEARCHINARR.py": {
+      "local_id": 1,
+      "problem_name": "Search an element in an array",
+      "problem_code": "SEARCHINARR",
+      "difficulty_range": "0000–0999",
+      "url": "https://www.codechef.com/problems/SEARCHINARR"
+    },
+    "CodeChef/0000-0999/002 Find maximum in an Array.py": {
+      "local_id": 2,
+      "problem_name": "Find maximum in an Array",
+      "problem_code": "",
+      "difficulty_range": "0000–0999",
+      "url": ""
+    }
+  }
+}
