@@ -78,3 +78,16 @@ class Solution:
     def count_non_minimum(self, nums):
         minimum = min(nums)
         return sum(1 for num in nums if num > minimum)
+    
+
+
+class Solution:
+    def count_non_minimum(self, nums):
+        minimum = min(nums)
+        count = 0
+
+        for num in nums:
+            if num > minimum:
+                count += 1
+
+        return count
