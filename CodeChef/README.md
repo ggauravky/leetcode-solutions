@@ -45,7 +45,7 @@ Problems are grouped by official CodeChef rating ranges. Folders are created as 
 | 1 | Search an element in an array | `SEARCHINARR` | 0000–0999 | [SEARCHINARR](https://www.codechef.com/problems/SEARCHINARR) | [Solution](<0000-0999/001 SEARCHINARR.py>) |
 | 2 | Find maximum in an Array | — | 0000–0999 | — | [Solution](<0000-0999/002 Find maximum in an Array.py>) |
 | 3 | LARGESECOND | — | 0000–0999 | — | [Solution](<0000-0999/003 LARGESECOND.py>) |
-| 4 | OPMIN | — | 0000–0999 | — | [Solution](<0000-0999/OPMIN.py>) |
+| 4 | OPMIN | — | 0000–0999 | — | [Solution](<0000-0999/004 OPMIN.py>) |
 <!-- END_CODECHEF_TABLE -->
 
 ---
